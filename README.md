@@ -56,27 +56,18 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%2300f.svg?logo=django&logoColor=white"></a>
 </p>
 
-## 📊 Github Stats
+## 🙋‍♀️ Let's Connect
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nazlı's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nazligulsah&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nazlı's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazligulsah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<p align="center">
+<a href="https://bernayildiran.notion.site/" target="_blank"><img src="https://img.icons8.com/stickers/56/notion.png" alt="Portfolio"/></a>
+<a href="https://github.com/brnyildiran" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/berna-yildiran/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
+<a href="https://www.behance.net/bernayildiran_" target="_blank"><img src="https://img.icons8.com/stickers/56/behance.png" alt="Behance"/></a>
+<a href="mailto:berna.yildiran1@gmail.com" target="_blank"><img src="https://img.icons8.com/stickers/56/gmail-new.png" alt="Gmail"/></a>
+<a href="https://tr.pinterest.com/brnyildiran/" target="_blank"><img src="https://img.icons8.com/stickers/56/pinterest.png" alt="Pinterest"/></a>
+<a href="https://open.spotify.com/user/dayisininbitanesi?si=bd4eb8e9fba440a9" target="_blank"><img src="https://img.icons8.com/stickers/56/spotify.png" alt="Spotify"/></a>
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashitanamdeo&custom_title=yashitanamdeo's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <br/>
-</details>
-
-<!-- https://github.com/sisodiya2421 -->
+</p>
 
 ## 🙋‍♀️ Let's Connect
 
