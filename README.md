@@ -7,22 +7,13 @@ Hi, I'm Nazlı Gülşah!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr/>
 <samp>
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral Values and Ethicates🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
-## 🔥 Streak Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nazlı's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nazligulsaho&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
-</p>
 
 ## 🛠️ My Favorite Tools
 
@@ -91,8 +82,8 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <p align="center">
 	
-	<a href="https://github.com/nazligulsah" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/nazligulsah/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/nazligulsah" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
+        <a href="https://www.linkedin.com/in/nazli-gulsah-onen/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
 	<a href="mailto:gulsahonen.97@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
 
