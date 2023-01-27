@@ -59,23 +59,14 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 ## 🙋‍♀️ Let's Connect
 
 <p align="center">
-<a href="https://bernayildiran.notion.site/" target="_blank"><img src="https://img.icons8.com/stickers/56/notion.png" alt="Portfolio"/></a>
-<a href="https://github.com/brnyildiran" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/berna-yildiran/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
-<a href="https://www.behance.net/bernayildiran_" target="_blank"><img src="https://img.icons8.com/stickers/56/behance.png" alt="Behance"/></a>
-<a href="mailto:berna.yildiran1@gmail.com" target="_blank"><img src="https://img.icons8.com/stickers/56/gmail-new.png" alt="Gmail"/></a>
-<a href="https://tr.pinterest.com/brnyildiran/" target="_blank"><img src="https://img.icons8.com/stickers/56/pinterest.png" alt="Pinterest"/></a>
-<a href="https://open.spotify.com/user/dayisininbitanesi?si=bd4eb8e9fba440a9" target="_blank"><img src="https://img.icons8.com/stickers/56/spotify.png" alt="Spotify"/></a>
+
+<a href="https://github.com/nazligulsah" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/nazli-gulsah-onen/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
+<a href="mailto:gulsahonen.97@gmail.com" target="_blank"><img src="https://img.icons8.com/stickers/56/gmail-new.png" alt="Gmail"/></a>
+
 
 </p>
 
-## 🙋‍♀️ Let's Connect
 
-<p align="center">
-	
-	<a href="https://github.com/nazligulsah" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
-        <a href="https://www.linkedin.com/in/nazli-gulsah-onen/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
-	<a href="mailto:gulsahonen.97@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
 
 
