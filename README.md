@@ -62,7 +62,7 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 
 <a href="https://github.com/nazligulsah" target="_blank"><img src="https://img.icons8.com/stickers/56/github.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/nazli-gulsah-onen/" target="_blank"><img src="https://img.icons8.com/stickers/56/linkedin.png" alt="LinkedIn"></a>
-<a href="mailto:gulsahonen.97@gmail.com" target="_blank"><img src="https://img.icons8.com/stickers/56/gmail-new.png" alt="Gmail"/></a>
+<a href="mailto:nazliigulsah@gmail.com" target="_blank"><img src="https://img.icons8.com/stickers/56/gmail-new.png" alt="Gmail"/></a>
 
 
 </p>
